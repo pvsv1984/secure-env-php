@@ -10,7 +10,7 @@ You can view a more in-depth tutorial on [Medium](https://medium.com/@johnathanm
 ## Installation
 Install secure-env-php using Composer
 ```
-composer require johnathanmiller/secure-env-php
+composer require pvsv1984/secure-env-php
 ```
 
 ## .env
